@@ -1,0 +1,36 @@
+C:\Users\Soporte\Desktop\Jueves 13 de Octubre\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\Soporte\Desktop\Jueves 13 de Octubre\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\Soporte\Desktop\Jueves 13 de Octubre\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Soporte\Desktop\Jueves 13 de Octubre\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Soporte\Desktop\Jueves 13 de Octubre\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Soporte\Desktop\Jueves 13 de Octubre\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.AssemblyReference.cache
+C:\Users\Soporte\Desktop\Jueves 13 de Octubre\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Soporte\Desktop\Jueves 13 de Octubre\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.GenerateResource.cache
+C:\Users\Soporte\Desktop\Jueves 13 de Octubre\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soporte\Desktop\Jueves 13 de Octubre\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Soporte\Desktop\Jueves 13 de Octubre\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.vb
+C:\Users\Soporte\Desktop\Jueves 13 de Octubre\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\Soporte\Desktop\Jueves 13 de Octubre\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Soporte\Desktop\Jueves 13 de Octubre\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\Soporte\Desktop\Jueves 13 de Octubre\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Soporte\Desktop\Jueves 13 de Octubre\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Soporte\Desktop\Jueves 13 de Octubre\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\Soporte\Desktop\Jueves 13 de Octubre\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Resources.resources
+C:\Users\USUARIO\Dropbox\PC\Downloads\Driner\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\USUARIO\Dropbox\PC\Downloads\Driner\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\USUARIO\Dropbox\PC\Downloads\Driner\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\USUARIO\Dropbox\PC\Downloads\Driner\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\USUARIO\Dropbox\PC\Downloads\Driner\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\USUARIO\Dropbox\PC\Downloads\Driner\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.AssemblyReference.cache
+C:\Users\USUARIO\Dropbox\PC\Downloads\Driner\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\USUARIO\Dropbox\PC\Downloads\Driner\obj\Debug\net6.0-windows\WinFormsApp1.Resources.resources
+C:\Users\USUARIO\Dropbox\PC\Downloads\Driner\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.GenerateResource.cache
+C:\Users\USUARIO\Dropbox\PC\Downloads\Driner\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Dropbox\PC\Downloads\Driner\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Dropbox\PC\Downloads\Driner\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.vb
+C:\Users\USUARIO\Dropbox\PC\Downloads\Driner\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Dropbox\PC\Downloads\Driner\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\USUARIO\Dropbox\PC\Downloads\Driner\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\USUARIO\Dropbox\PC\Downloads\Driner\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\USUARIO\Dropbox\PC\Downloads\Driner\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\USUARIO\Dropbox\PC\Downloads\Driner\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
